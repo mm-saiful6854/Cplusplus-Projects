@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1624168714 source:s:\c++ projects\tic_tac_toe\main.cpp
+	<bits/stdc++.h>
+	<conio.h>
+	<windows.h>
+	"Node.h"
+	"Board.h"
+	"Gameplayer.h"
+	"Tic_Tac_Toe.h"
+
+1624118514 s:\c++ projects\tic_tac_toe\node.h
+
+1624118519 source:s:\c++ projects\tic_tac_toe\node.cpp
+	<bits/stdc++.h>
+	"Node.h"
+
+1624118541 s:\c++ projects\tic_tac_toe\board.h
+	<bits/stdc++.h>
+	"Node.h"
+
+1624124016 source:s:\c++ projects\tic_tac_toe\board.cpp
+	<bits/stdc++.h>
+	"Node.h"
+	"Board.h"
+
+1624125849 source:s:\c++ projects\tic_tac_toe\gameplayer.cpp
+	<bits/stdc++.h>
+	<conio.h>
+	<windows.h>
+	"Gameplayer.h"
+
+1624125774 s:\c++ projects\tic_tac_toe\gameplayer.h
+	<bits/stdc++.h>
+
+1624131226 s:\c++ projects\tic_tac_toe\tic_tac_toe.h
+	<bits/stdc++.h>
+	<conio.h>
+	<windows.h>
+	"Board.h"
+	"Gameplayer.h"
+
+1624168457 source:s:\c++ projects\tic_tac_toe\tic_tac_toe.cpp
+	"Tic_Tac_Toe.h"
+	<bits/stdc++.h>
+
